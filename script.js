@@ -7,5 +7,5 @@ function clearDisplay() {
 }
 
 function displayLoveMessage() {
-  document.getElementById('display').value = 'I LOVE YOU';
+  document.getElementById('display').value = 'I LOVE YOU <3';
 }
